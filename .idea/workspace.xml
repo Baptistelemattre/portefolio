@@ -2,33 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eedbee1d-83d6-4f85-8cb6-e0c493934435" name="Changes" comment="debut projet">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/about/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/about/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/about/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/about/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/close-icon.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/header-bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/logos/facebook.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/logos/google.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/logos/ibm.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/logos/microsoft.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/map-image.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/navbar-logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/team/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/team/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/team/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/scripts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/header-bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,6 +55,8 @@
       <workItem from="1636663986394" duration="45000" />
       <workItem from="1636664234507" duration="17000" />
       <workItem from="1636664333364" duration="4000" />
+      <workItem from="1636664631865" duration="593000" />
+      <workItem from="1636667494504" duration="695000" />
     </task>
     <servers />
   </component>
