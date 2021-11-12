@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eedbee1d-83d6-4f85-8cb6-e0c493934435" name="Changes" comment="debut projet">
+    <list default="true" id="eedbee1d-83d6-4f85-8cb6-e0c493934435" name="Changes" comment="comit 1 header + fond +">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/header-bg.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -56,8 +55,20 @@
       <workItem from="1636664234507" duration="17000" />
       <workItem from="1636664333364" duration="4000" />
       <workItem from="1636664631865" duration="593000" />
-      <workItem from="1636667494504" duration="695000" />
+      <workItem from="1636667494504" duration="854000" />
+      <workItem from="1636698152448" duration="1313000" />
+      <workItem from="1636708526435" duration="317000" />
+      <workItem from="1636709297338" duration="600000" />
+      <workItem from="1636712497729" duration="354000" />
     </task>
+    <task id="LOCAL-00001" summary="comit 1 header + fond +">
+      <created>1636668278660</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1636668278660</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -77,6 +88,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="debut projet" />
-    <option name="LAST_COMMIT_MESSAGE" value="debut projet" />
+    <MESSAGE value="comit 1 header + fond +" />
+    <option name="LAST_COMMIT_MESSAGE" value="comit 1 header + fond +" />
   </component>
 </project>
