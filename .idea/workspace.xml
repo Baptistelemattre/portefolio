@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eedbee1d-83d6-4f85-8cb6-e0c493934435" name="Changes" comment="comit 1 header + fond +">
+    <list default="true" id="eedbee1d-83d6-4f85-8cb6-e0c493934435" name="Changes" comment="ajout debut à propos+ navbar">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
@@ -59,7 +59,14 @@
       <workItem from="1636698152448" duration="1313000" />
       <workItem from="1636708526435" duration="317000" />
       <workItem from="1636709297338" duration="600000" />
-      <workItem from="1636712497729" duration="354000" />
+      <workItem from="1636712497729" duration="611000" />
+      <workItem from="1636718024185" duration="330000" />
+      <workItem from="1636718731575" duration="2377000" />
+      <workItem from="1636721564124" duration="473000" />
+      <workItem from="1636725612864" duration="45000" />
+      <workItem from="1636742626457" duration="346000" />
+      <workItem from="1636747365078" duration="3800000" />
+      <workItem from="1636802132473" duration="2651000" />
     </task>
     <task id="LOCAL-00001" summary="comit 1 header + fond +">
       <created>1636668278660</created>
@@ -68,7 +75,14 @@
       <option name="project" value="LOCAL" />
       <updated>1636668278660</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="ajout debut à propos+ navbar">
+      <created>1636713104717</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1636713104717</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -89,6 +103,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="debut projet" />
     <MESSAGE value="comit 1 header + fond +" />
-    <option name="LAST_COMMIT_MESSAGE" value="comit 1 header + fond +" />
+    <MESSAGE value="ajout debut à propos+ navbar" />
+    <option name="LAST_COMMIT_MESSAGE" value="ajout debut à propos+ navbar" />
   </component>
 </project>
