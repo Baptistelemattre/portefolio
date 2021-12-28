@@ -11934,3 +11934,6 @@ img#diapo {
 .Projet{
 display: inline-block;
 }
+.text-justi{
+  text-align: justify;
+}
