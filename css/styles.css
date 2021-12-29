@@ -11727,7 +11727,6 @@ header.masthead .masthead-heading {
 
 section#contact {
   background-color: #212529;
-  background-image: url("../assets/img/map-image.png");
   background-repeat: no-repeat;
   background-position: center;
 }
@@ -11939,4 +11938,8 @@ display: inline-block;
 }
 .text-cent{
   text-align: center;
+}
+.bold{
+  font-weight: bolder;
+  text-decoration: underline;
 }
