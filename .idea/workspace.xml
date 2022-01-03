@@ -3,12 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="eedbee1d-83d6-4f85-8cb6-e0c493934435" name="Changes" comment="modif navbar + ajout logo + ajout icon">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/fondtest.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/navbar-logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logo.psd" beforeDir="false" afterPath="$PROJECT_DIR$/logo.psd" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +25,9 @@
     <setting file="file://$PROJECT_DIR$/css/styles.css" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/index.html" root0="FORCE_HIGHLIGHTING" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="20Dmb8raUETRZKu5EVaNS3WOvTm" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -42,7 +39,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="E:/30032020/SESI/s2/technologie du web1/projet_baptiste_lemattre" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -82,6 +79,8 @@
       <workItem from="1637227745566" duration="43000" />
       <workItem from="1637490816891" duration="7546000" />
       <workItem from="1637575947414" duration="4000" />
+      <workItem from="1641146541678" duration="196000" />
+      <workItem from="1641203873448" duration="16000" />
     </task>
     <task id="LOCAL-00001" summary="comit 1 header + fond +">
       <created>1636668278660</created>
@@ -120,7 +119,6 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="debut projet" />
