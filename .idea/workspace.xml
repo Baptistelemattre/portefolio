@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="eedbee1d-83d6-4f85-8cb6-e0c493934435" name="Changes" comment="modif navbar + ajout logo + ajout icon">
+    <list default="true" id="eedbee1d-83d6-4f85-8cb6-e0c493934435" name="Changes" comment="coorection ortho anglais 2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index-en.html" beforeDir="false" afterPath="$PROJECT_DIR$/index-en.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +29,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/css/styles.css" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/index-en.html" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/index.html" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -34,16 +41,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="vue.rearranger.settings.migration" value="true" />
-  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -81,6 +89,21 @@
       <workItem from="1637575947414" duration="4000" />
       <workItem from="1641146541678" duration="196000" />
       <workItem from="1641203873448" duration="16000" />
+      <workItem from="1641214364493" duration="715000" />
+      <workItem from="1641299168319" duration="686000" />
+      <workItem from="1642058415051" duration="3194000" />
+      <workItem from="1642669301668" duration="17000" />
+      <workItem from="1646829889268" duration="1459000" />
+      <workItem from="1657447892393" duration="1349000" />
+      <workItem from="1657483343852" duration="727000" />
+      <workItem from="1657661921373" duration="1280000" />
+      <workItem from="1660813669211" duration="2245000" />
+      <workItem from="1660844622662" duration="1564000" />
+      <workItem from="1674562649406" duration="2622000" />
+      <workItem from="1679345099106" duration="387000" />
+      <workItem from="1685552086692" duration="849000" />
+      <workItem from="1685553062619" duration="158000" />
+      <workItem from="1685553242170" duration="6494000" />
     </task>
     <task id="LOCAL-00001" summary="comit 1 header + fond +">
       <created>1636668278660</created>
@@ -103,7 +126,42 @@
       <option name="project" value="LOCAL" />
       <updated>1636806136624</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="ajout correction orthographe">
+      <created>1641214479910</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1641214479910</updated>
+    </task>
+    <task id="LOCAL-00005" summary="correction orthographe 7">
+      <created>1641299253544</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1641299253544</updated>
+    </task>
+    <task id="LOCAL-00006" summary="correction ortho anglais">
+      <created>1642060585944</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1642060585944</updated>
+    </task>
+    <task id="LOCAL-00007" summary="modif cv en">
+      <created>1642061212905</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1642061212905</updated>
+    </task>
+    <task id="LOCAL-00008" summary="coorection ortho anglais 2">
+      <created>1642061401943</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1642061401943</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -125,6 +183,11 @@
     <MESSAGE value="comit 1 header + fond +" />
     <MESSAGE value="ajout debut à propos+ navbar" />
     <MESSAGE value="modif navbar + ajout logo + ajout icon" />
-    <option name="LAST_COMMIT_MESSAGE" value="modif navbar + ajout logo + ajout icon" />
+    <MESSAGE value="ajout correction orthographe" />
+    <MESSAGE value="correction orthographe 7" />
+    <MESSAGE value="correction ortho anglais" />
+    <MESSAGE value="modif cv en" />
+    <MESSAGE value="coorection ortho anglais 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="coorection ortho anglais 2" />
   </component>
 </project>
